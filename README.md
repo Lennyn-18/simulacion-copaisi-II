@@ -1,4 +1,3 @@
-# simulacion-copaisi-II
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -51,13 +50,11 @@
         </div>
     </div></nav></td>    
         </tr>
-    
-        <h2 class="sub">
+            <h2 class="sub">
             <div id="pon">PONENTES</div>
             </h2>
             <article class="caja">
-             
-            <div class="area_pon">
+                         <div class="area_pon">
                 <div class="ponent_a">
                     <img class="img_redondo" src="p1.jpg" width="150px" height="150px"/><hr color="white">
                 <div class="titu_pon">   Kent Emershon Yucra Quispe <hr color="white"></div>
@@ -67,8 +64,7 @@
             </div>
             </article>
             <article class="caja">
-                   
-                    <div class="area_pon">
+                        <div class="area_pon">
                         <div class="ponent_a">
                             <img class="img_redondo" src="p2.jpg" width="150px" height="150px"/><hr color="white">
                             <div class="titu_pon">Alain Alejo Huarachih</div><hr color="white">
@@ -79,8 +75,7 @@
                         </div>  
                     </div>
             </article>
-            
-            <article class="caja">
+                      <article class="caja">
                     <div class="area_pon">
                         <div class="ponent_a">
                          <img class="img_redondo" src="p3.jpg" width="150px" height="150px"/><hr color="white">
@@ -252,8 +247,6 @@
              </div>
         </div></na>v</td>    
             </tr><br><br><br>
-
-
         <h2 class="sub">
              <div id="PRO">PROGRAMA</div>
         </h2> 
@@ -301,7 +294,6 @@
             </tr>
             </tbody>
             </table>
-
             <table class="programa">
                 <thead>
                 <tr>
@@ -356,8 +348,7 @@
                 </tr>
                 </tbody>
                 </table>
-    
-                <table class="programa">
+                   <table class="programa">
                     <thead>
                     <tr>
                     <th>Hora</th>
@@ -421,4 +412,4 @@
                         <div class="text_pie">Copyright © 2020 Universidad Nacional del Altiplano | All Rights Reserved</div>
                         </div></footer>
 </body>
-</html>     
+</html>
